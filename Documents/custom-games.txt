@@ -1,0 +1,2 @@
+For a custom game, when program boots, make a new file in the same directory with the RunProgram file.
+Call this new file "custom.py" and code it. Then run the program and select sector 6 to boot the custom game. Enjoy!

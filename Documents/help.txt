@@ -1,0 +1,8 @@
+Help File
+Please look for the RunPython or RunProgram file and open it with python, if you can not run it, go to the link below to get a version of this program that has no system data tests. 
+
+ 
+
+If you have no python to run it, get the exe of it or see if you can get python on your device.
+
+ 
